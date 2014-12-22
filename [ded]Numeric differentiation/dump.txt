@@ -1045,3 +1045,45 @@ NUMBER: 2
                   )
             )
 )
+=================DUMP=TOKEN=SEQUENCE====================
+
+FUNCTION: sin
+BRACKET: (
+FUNCTION: cos
+BRACKET: (
+VARIABLE: x
+BRACKET: )
+BRACKET: )
+
+
+====================TREE==DUMP==========================
+
+((null) 0 -1
+            (sin 3 5
+                    (cos 3 6
+                            (x 1 -1)
+                    )
+            )
+)
+
+
+====================TREE==DUMP==========================
+
+((null) 0 -1
+            (* 3 2
+                  (* 3 2
+                        (1 2 -1)
+                        (- 3 1
+                              (0 2 -1)
+                              (sin 3 5
+                                      (x 1 -1)
+                              )
+                        )
+                  )
+                  (cos 3 6
+                          (cos 3 6
+                                  (x 1 -1)
+                          )
+                  )
+            )
+)

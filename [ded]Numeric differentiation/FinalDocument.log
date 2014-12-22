@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.21)  22 DEC 2014 15:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.21)  22 DEC 2014 23:17
 entering extended mode
-**C:/Users/Денис/Desktop/C,C++/[ded]Numeric*differentiation/FinalDocument.
-tex
+**C:/Users/Денис/Desktop/CommonStorage/[ded]Numeric*differentiation/FinalD
+ocument.tex
 
-("C:/Users/Денис/Desktop/C,C++/[ded]Numeric differentiation/FinalDocument.
-tex"
+("C:/Users/Денис/Desktop/CommonStorage/[ded]Numeric differentiation/FinalD
+ocument.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -120,8 +120,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Users\Денис\Desktop\C,C++\[ded]Numeric differentiation\FinalDocument.
-aux")
+("C:\Users\Денис\Desktop\CommonStorage\[ded]Numeric differentiation\FinalD
+ocument.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -142,23 +142,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (301.72978pt too wide) detected at line 16
-\OML/cmm/m/it/14.4 f[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x\OT1/cmr/m/n/14.4 
-) = []
- []
-
-
-Overfull \hbox (100.67622pt too wide) detected at line 18
-\OML/cmm/m/it/14.4 f[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 x\OT1/cmr/m/n/14.4 
-) = []
- []
-
-[1
+) [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\Денис\Desktop\C,C++\[ded]Numeric differentiation\FinalDocument.
-aux") )
+("C:\Users\Денис\Desktop\CommonStorage\[ded]Numeric differentiation\FinalD
+ocument.aux") )
 (\end occurred inside a group at level 2)
 
 ### simple group (level 2) entered at line 21 ({)
@@ -166,12 +154,12 @@ aux") )
 ### bottom level 
 Here is how much of TeX's memory you used:
  1200 strings out of 493921
- 13879 string characters out of 3144923
- 63255 words of memory out of 3000000
+ 13935 string characters out of 3144923
+ 62255 words of memory out of 3000000
  4533 multiletter control sequences out of 15000+200000
  8204 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,8n,24p,332b,149s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,24p,296b,149s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
@@ -180,8 +168,7 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
 b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on FinalDocument.pdf (1 page, 92223 bytes).
+Output written on FinalDocument.pdf (1 page, 90472 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
