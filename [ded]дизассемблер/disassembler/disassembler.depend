@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418081458 source:c:\users\Денис\desktop\c,c++\[ded]дизассемблер\disassembler\disassembler.cpp
+	"disassembler.h"
+
+1418081933 c:\users\Денис\desktop\c,c++\[ded]дизассемблер\disassembler\disassembler.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+
+1418081859 source:c:\users\Денис\desktop\c,c++\[ded]дизассемблер\disassembler\main.cpp
+	"disassembler.h"
+

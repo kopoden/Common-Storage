@@ -1,0 +1,11 @@
+int cnt(FILE*, STACK_t*, data_t*) == OK
+int cnt(FILE*, STACK_t*, data_t*) == OK
+int mul(STACK_t*) == OK
+int mul(STACK_t*) == OK
+int mul(STACK_t*) == OK
+int cnt(FILE*, STACK_t*, data_t*) == OK
+int add(STACK_t*) == OK
+int add(STACK_t*) == OK
+int add(STACK_t*) == OK
+int cnt(FILE*, STACK_t*, data_t*) == OK
+int main() == OK

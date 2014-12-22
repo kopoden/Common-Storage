@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1417648724 source:c:\users\Денис\desktop\c,c++\[ded]Рекурсивный спуск\main.cpp
+	"rules.h"
+
+1417170041 source:c:\users\Денис\desktop\c,c++\[ded]Рекурсивный спуск\tree.cpp
+	"tree.h"
+
+1417649297 c:\users\Денис\desktop\c,c++\[ded]Рекурсивный спуск\tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1417648291 source:c:\users\Денис\desktop\c,c++\[ded]Рекурсивный спуск\rules.cpp
+	"rules.h"
+
+1417649297 c:\users\Денис\desktop\c,c++\[ded]Рекурсивный спуск\rules.h
+	<math.h>
+	"tree.h"
+

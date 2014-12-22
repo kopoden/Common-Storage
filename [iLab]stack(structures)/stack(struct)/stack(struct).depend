@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1415209741 source:c:\users\Δενθρ\desktop\c,c++\[ilab]stack(structures)\stack(struct)\stack_functions.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"stack_functions.h"
+
+1415206642 c:\users\Δενθρ\desktop\c,c++\[ilab]stack(structures)\stack(struct)\stack_functions.h
+
+1415209500 source:c:\users\Δενθρ\desktop\c,c++\[ilab]stack(structures)\stack(struct)\stack_main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack_functions.h"
+

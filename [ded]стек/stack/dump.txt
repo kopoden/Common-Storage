@@ -1,0 +1,174 @@
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ STACK IS VALID
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 21 )
+DATA: 0.123 1 
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ STACK IS VALID
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 21 )
+DATA: 0.123 1 
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ STACK IS VALID
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 21 )
+DATA: 1 7.3 
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ STACK IS VALID
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 21 )
+DATA: 1 7.3 
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ STACK IS VALID
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 21 )
+DATA: 1 7.3 
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: STACK IS EMPTY. IMPOSSIBLE TO POP
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 42 )
+DATA: EMPTY
+
+***********************************************************************
+FUNCTION: void dumper(STACK_t*)
+ ERROR: POINTER IS OUT OF STACK
+ FILE: C:\Users\Äåíèñ\Desktop\C,C++\ñòåê äåäó\stack\stack_functions.cpp  (line 36 )
+DATA: UNKNOWN
+

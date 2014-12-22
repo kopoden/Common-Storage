@@ -1,0 +1,87 @@
+CPU_CTOR == OK
+IN (0) == OK
+POP (1) == OK
+MOV (3) == OK
+MOV (6) == OK
+MOV (9) == OK
+PUSH (12) == OK
+PUSH DOUBLE (14) == OK
+JB (16) == OK
+PUSH (18) == OK
+PUSH DOUBLE (20) == OK
+JE (22) == OK
+CALL (24) == OK
+PUSH (38) == OK
+PUSH (40) == OK
+JBE (42) == OK
+PUSH (44) == OK
+PUSH DOUBLE (46) == OK
+ADD (48) == OK
+POP (49) == OK
+CALL (51) == OK
+PUSH (38) == OK
+PUSH (40) == OK
+JBE (42) == OK
+PUSH (44) == OK
+PUSH DOUBLE (46) == OK
+ADD (48) == OK
+POP (49) == OK
+CALL (51) == OK
+PUSH (38) == OK
+PUSH (40) == OK
+JBE (42) == OK
+PUSH (44) == OK
+PUSH DOUBLE (46) == OK
+ADD (48) == OK
+POP (49) == OK
+CALL (51) == OK
+PUSH (38) == OK
+PUSH (40) == OK
+JBE (42) == OK
+PUSH (44) == OK
+PUSH DOUBLE (46) == OK
+ADD (48) == OK
+POP (49) == OK
+CALL (51) == OK
+PUSH (38) == OK
+PUSH (40) == OK
+JBE (53) == OK
+PUSH (53) == OK
+PUSH (55) == OK
+PUSH (57) == OK
+ADD (59) == OK
+POP (60) == OK
+POP (62) == OK
+RET (64) == OK
+PUSH (53) == OK
+PUSH (55) == OK
+PUSH (57) == OK
+ADD (59) == OK
+POP (60) == OK
+POP (62) == OK
+RET (64) == OK
+PUSH (53) == OK
+PUSH (55) == OK
+PUSH (57) == OK
+ADD (59) == OK
+POP (60) == OK
+POP (62) == OK
+RET (64) == OK
+PUSH (53) == OK
+PUSH (55) == OK
+PUSH (57) == OK
+ADD (59) == OK
+POP (60) == OK
+POP (62) == OK
+RET (64) == OK
+PUSH (53) == OK
+PUSH (55) == OK
+PUSH (57) == OK
+ADD (59) == OK
+POP (60) == OK
+POP (62) == OK
+RET (64) == OK
+PUSH (26) == OK
+OUT (28) == OK
+OK
+CPU_dtor == OK

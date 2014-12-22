@@ -1,0 +1,28 @@
+(It is a teacher
+                (Love_to_throw_students_off_guard
+                                                 (Are_always_smiling
+                                                                    (Ivanova)
+                                                                    (the_best_mark_is_about_six
+                                                                                               (Burlutskaya)
+                                                                                               (is_younger_than_30
+                                                                                                                  (Chuvilin)
+                                                                                                                  (Znamenskaya)
+                                                                                               )
+                                                                    )
+                                                 )
+                                                 (A_teacher_of_analytical_geometry
+                                                                                  (Jesus_or_Chubarov)
+                                                                                  (Flerov)
+                                                 )
+                )
+                (it_is_a_woman
+                              (she_is_a_singer
+                                              (she_is_a_fetching_actress
+                                                                        (Scarlett_Johansson)
+                                                                        (Beyonce)
+                                              )
+                                              (Mom)
+                              )
+                              (Eminem)
+                )
+)

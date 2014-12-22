@@ -1,0 +1,206 @@
+function DivideIntoTokens(s, &TokenSequence, &NumOfTokens) in function int main() == OK
+function TokensDump(TokenSequence, NumOfTokens) in function int main() == OK
+create_new_leaf(&Cos, "cos", 0, FUN, COS) == OK
+create_new_leaf(&Sin, "sin", 0, FUN, SIN) == OK
+create_new_leaf(&num, NULL, GTS->nValue, NUM, NONE) == OK
+create_new_leaf(&mul, "*", 0, FUN, MUL) == OK
+add_left(mul, val) == OK
+create_new_leaf(&num, GTS->Value, 0, VAR, NONE) == OK
+add_rght(mul, GetT()) == OK
+add_left(Sin, GetP()) == OK
+add_left(Cos, GetP()) == OK
+create_new_leaf(&add, "+", 0, FUN, ADD) == OK
+add_left(add, val) == OK
+create_new_leaf(&num, NULL, GTS->nValue, NUM, NONE) == OK
+create_new_leaf(&add, "+", 0, FUN, ADD) == OK
+add_left(add, val) == OK
+create_new_leaf(&num, NULL, GTS->nValue, NUM, NONE) == OK
+create_new_leaf(&add, "+", 0, FUN, ADD) == OK
+add_left(add, val) == OK
+create_new_leaf(&num, NULL, GTS->nValue, NUM, NONE) == OK
+add_rght(add, GetE()) == OK
+add_rght(add, GetE()) == OK
+create_new_leaf(&mul, "*", 0, FUN, MUL) == OK
+add_left(mul, val) == OK
+create_new_leaf(&num, GTS->Value, 0, VAR, NONE) == OK
+create_new_leaf(&deg, "^", 0, FUN, DEG) == OK
+add_left(deg, val) == OK
+create_new_leaf(&num, NULL, GTS->nValue, NUM, NONE) == OK
+add_rght(deg, GetDegree()) == OK
+add_rght(mul, GetT()) == OK
+add_rght(add, GetE()) == OK
+function add_left(*Expression, GetE()) in function int MakeExpressionTree(node**) == OK
+function MakeExpressionTree(&expression) in function int main() == OK
+function tree_dump(expression) in function int main() == OK
+NC(&NewTree, expression) == OK
+CNL(&NewTree, "+", 0, FUN, ADD) == OK
+CNL(&NewTree, "*", 0, FUN, MUL) == OK
+CNL(&NewTree, "*", 0, FUN, MUL) == OK
+CNL(&NewTree, "+", 0, FUN, ADD) == OK
+CNL(&L, "*", 0, FUN, MUL) == OK
+CNL(&R, "*", 0, FUN, MUL) == OK
+CNL(&NewTree, NULL, 0, NUM, NONE) == OK
+NC(&LL, Differentiation(EL)) == OK
+NC(&LR, ER) == OK
+NC(&RL, EL) == OK
+CNL(&NewTree, NULL, 1, NUM, NONE) == OK
+NC(&RR, Differentiation(ER)) == OK
+NC(&L, Differentiation(EL)) == OK
+CNL(&R, "cos", 0, FUN, COS) == OK
+NC(&RL, EL) == OK
+NC(&L, Differentiation(EL)) == OK
+CNL(&R, "-", 0, FUN, SUB) == OK
+CNL(&RL, NULL, 0, NUM, NONE) == OK
+CNL(&RR, "sin", 0, FUN, SIN) == OK
+NC(&RR->left, EL) == OK
+NC(&L, Differentiation(EL)) == OK
+CNL(&NewTree, "+", 0, FUN, ADD) == OK
+CNL(&L, "*", 0, FUN, MUL) == OK
+CNL(&R, "*", 0, FUN, MUL) == OK
+CNL(&NewTree, "+", 0, FUN, ADD) == OK
+CNL(&NewTree, NULL, 0, NUM, NONE) == OK
+NC(&L, Differentiation(EL)) == OK
+CNL(&NewTree, "+", 0, FUN, ADD) == OK
+CNL(&NewTree, NULL, 0, NUM, NONE) == OK
+NC(&L, Differentiation(EL)) == OK
+CNL(&NewTree, NULL, 0, NUM, NONE) == OK
+NC(&R, Differentiation(ER)) == OK
+NC(&R, Differentiation(ER)) == OK
+NC(&LL, Differentiation(EL)) == OK
+NC(&LR, ER) == OK
+NC(&RL, EL) == OK
+CNL(&NewTree, "*", 0, FUN, MUL) == OK
+CNL(&L, "*", 0, FUN, MUL) == OK
+CNL(&R, "^", 0, FUN, DEG) == OK
+CNL(&RR, "-", 0, FUN, SUB) == OK
+NC(&LL, ER) == OK
+CNL(&NewTree, NULL, 1, NUM, NONE) == OK
+NC(&LR, Differentiation(EL)) == OK
+NC(&RL, EL) == OK
+NC(&RR->left, ER) == OK
+CNL(&RR->rght, NULL, 1, NUM, NONE) == OK
+NC(&RR, Differentiation(ER)) == OK
+NC(&R, Differentiation(ER)) == OK
+NC(&L, Differentiation(EL)) == OK
+function tree_dump(derivative) in function int main() == OK
+function printHeader() in function int main() == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, COS) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ROOT) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(expression, ROOT) in function int main() == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, COS) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ROOT) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(derivative, ROOT) in function int main() == OK
+function O1(&derivative) in function int main() == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, COS) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ROOT) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(derivative, ROOT) in function int main() == OK
+function O2(&derivative) in function int main() == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, COS) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, SIN) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, SUB) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, DEG) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, MUL) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->rght, ADD) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(Node->left, ROOT) in function int TexPrintNode(node*, int) == OK
+function TexPrintNode(derivative, ROOT) in function int main() == OK
+function printListOfLiterature() in function int main() == OK

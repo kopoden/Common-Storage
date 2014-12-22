@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1418996408 source:c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\hash_table.cpp
+	"hash_table.h"
+
+1417959041 source:c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\list_functions.cpp
+	"list_functions.h"
+
+1417959041 c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\list_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1417957274 c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\hash_table.h
+	<io.h>
+	<locale.h>
+	"list_functions.h"
+
+1418989480 source:c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\main.cpp
+	"hash_func.h"
+
+1416426938 source:c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\hash_func.cpp
+	"hash_func.h"
+
+1416418341 c:\users\Äåíèñ\desktop\c,c++\[ded]hash-table\hash_func.h
+	"hash_table.h"
+

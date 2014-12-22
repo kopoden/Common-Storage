@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1415144122 source:c:\users\Äåíèñ\desktop\c,c++\stack\stack\stack_main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"stack_functions.h"
+
+1412986717 c:\users\Äåíèñ\desktop\c,c++\stack\stack\stack_managment.h
+
+1412986443 source:c:\users\Äåíèñ\desktop\c,c++\stack\stack\stack_managment.cpp
+	<errno.h>
+	<stdlib.h>
+	<stdio.h>
+	"stack_managment.h"
+
+1415144206 source:c:\users\Äåíèñ\desktop\c,c++\stack\stack\stack_functions.cpp
+	<stdlib.h>
+	<stdio.h>
+	"stack_functions.h"
+
+1415144110 c:\users\Äåíèñ\desktop\c,c++\stack\stack\stack_functions.h
+

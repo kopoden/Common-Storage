@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1412268946 source:c:\users\Денис\desktop\Язык С,c++\Программы\quadratic_equation\new_quadratic_equation_final_version.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"library_quadratic_equation.h"
+
+1412269801 c:\users\Денис\desktop\Язык С,c++\Программы\quadratic_equation\library_quadratic_equation.h
+
+1412270526 source:c:\users\Денис\desktop\Язык С,c++\Программы\quadratic_equation\library_quadratic_equation.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"library_quadratic_equation.h"
+
+1412272767 source:c:\users\Денис\desktop\c,c++\quadratic_equation\library_quadratic_equation.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"library_quadratic_equation.h"
+
+1412272771 c:\users\Денис\desktop\c,c++\quadratic_equation\library_quadratic_equation.h
+
+1412272745 c:\users\Денис\desktop\c,c++\quadratic_equation\library_quadratic_equation.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1412268946 source:c:\users\Денис\desktop\c,c++\quadratic_equation\new_quadratic_equation_final_version.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"library_quadratic_equation.h"
+

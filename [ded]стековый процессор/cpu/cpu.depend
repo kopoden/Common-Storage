@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1414853088 source:c:\users\Денис\desktop\c,c++\стековый процессор\cpu\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"cpu.h"
+
+1414760768 source:c:\users\Денис\desktop\c,c++\стековый процессор\cpu\stack_functions.cpp
+	<stdlib.h>
+	<stdio.h>
+	"stack_functions.h"
+
+1414760595 c:\users\Денис\desktop\c,c++\стековый процессор\cpu\stack_functions.h
+
+1414853138 source:c:\users\Денис\desktop\c,c++\стековый процессор\cpu\cpu.cpp
+	<stdio.h>
+	<stdlib.h>
+	"cpu.h"
+	"stack_functions.h"
+
+1414851498 c:\users\Денис\desktop\c,c++\стековый процессор\cpu\cpu.h
+	"stack_functions.h"
+
+1418989856 source:c:\users\Денис\desktop\c,c++\[ded]стековый процессор\cpu\cpu.cpp
+	"cpu.h"
+
+1417899728 c:\users\Денис\desktop\c,c++\[ded]стековый процессор\cpu\cpu.h
+	"stack_functions.h"
+	<math.h>
+	<strings.h>
+
+1416265139 c:\users\Денис\desktop\c,c++\[ded]стековый процессор\cpu\stack_functions.h
+	<stdlib.h>
+	<stdio.h>
+
+1417899732 source:c:\users\Денис\desktop\c,c++\[ded]стековый процессор\cpu\main.cpp
+	"cpu.h"
+
+1417889315 source:c:\users\Денис\desktop\c,c++\[ded]стековый процессор\cpu\stack_functions.cpp
+	"stack_functions.h"
+

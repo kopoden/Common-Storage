@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1414684111 source:c:\users\Äåíèñ\desktop\c,c++\àññåìáëåð\assembler.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"assembler.h"
+
+1414684078 c:\users\Äåíèñ\desktop\c,c++\àññåìáëåð\assembler.h
+
+1414751128 source:c:\users\Äåíèñ\desktop\c,c++\àññåìáëåð\assembler\assembler.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+	"assembler.h"
+
+1414739526 c:\users\Äåíèñ\desktop\c,c++\àññåìáëåð\assembler\assembler.h
+
+1414752166 source:c:\users\Äåíèñ\desktop\c,c++\àññåìáëåð\assembler\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"assembler.h"
+
+1415357902 source:c:\users\Äåíèñ\desktop\c,c++\[ded]àññåìáëåð\assembler\main.cpp
+	"assembler.h"
+
+1417789699 c:\users\Äåíèñ\desktop\c,c++\[ded]àññåìáëåð\assembler\assembler.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<io.h>
+
+1416865791 source:c:\users\Äåíèñ\desktop\c,c++\[ded]àññåìáëåð\assembler\assembler.cpp
+	"assembler.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1414599077 source:c:\users\Денис\desktop\c,c++\стек деду\stack\stack_functions.cpp
+	<stdlib.h>
+	<stdio.h>
+	"stack_functions.h"
+
+1414598440 c:\users\Денис\desktop\c,c++\стек деду\stack\stack_functions.h
+

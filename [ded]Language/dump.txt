@@ -1,0 +1,86 @@
+=================DUMP=TOKEN=SEQUENCE====================
+
+FUNCTION: begin
+FUNCTION: out<<
+VARIABLE: reg1
+FUNCTION: in>>
+VARIABLE: reg1
+VARIABLE: reg1
+FUNCTION: :=
+VARIABLE: reg1
+FUNCTION: +
+VARIABLE: reg1
+FUNCTION: if
+BRACKET: (
+VARIABLE: reg2
+FUNCTION: >
+VARIABLE: reg1
+BRACKET: )
+FUNCTION: begin
+VARIABLE: reg1
+FUNCTION: :=
+VARIABLE: reg1
+FUNCTION: +
+VARIABLE: reg1
+FUNCTION: end
+FUNCTION: end
+
+
+====================TREE==DUMP==========================
+
+(BEGIN 0 -1
+           (begin 3 7
+                     (in>> 3 6
+                              (reg1 1 -1)
+                              (if 3 9
+                                     (> 3 12
+                                            (reg2 1 -1)
+                                            (reg1 1 -1)
+                                     )
+                              )
+                     )
+           )
+)
+=================DUMP=TOKEN=SEQUENCE====================
+
+FUNCTION: begin
+FUNCTION: out<<
+VARIABLE: reg1
+FUNCTION: in>>
+VARIABLE: reg1
+VARIABLE: reg1
+FUNCTION: :=
+VARIABLE: reg1
+FUNCTION: +
+VARIABLE: reg1
+FUNCTION: if
+BRACKET: (
+VARIABLE: reg2
+FUNCTION: >
+VARIABLE: reg1
+BRACKET: )
+FUNCTION: begin
+VARIABLE: reg1
+FUNCTION: :=
+VARIABLE: reg1
+FUNCTION: +
+VARIABLE: reg1
+FUNCTION: end
+FUNCTION: end
+
+
+====================TREE==DUMP==========================
+
+(BEGIN 0 -1
+           (begin 3 7
+                     (in>> 3 6
+                              (reg1 1 -1)
+                              (if 3 9
+                                     (> 3 12
+                                            (reg2 1 -1)
+                                            (reg1 1 -1)
+                                     )
+                              )
+                     )
+           )
+)

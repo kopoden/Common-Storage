@@ -1,0 +1,9 @@
+int HT_ctor(List*) == OK
+int make_buffer(FILE*, char**, long int*) == OK
+int make_words_array(char***, char*, long int, int*) == OK
+int HT_ok(List*) == OK
+int HT_filling(char**, int, List*, int (*)(char*)) == OK
+DUMP HAS BEEN COMPLETED
+int HT_ok(List*) == OK
+int count_and_output(FILE*, List*) == OK
+int HT_dtor(List*) == OK

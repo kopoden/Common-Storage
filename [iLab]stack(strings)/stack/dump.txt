@@ -1,0 +1,17 @@
+
+POINTER IS OUT OF STACK in double pop(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 93 )
+POINTER IS OUT OF STACK in double pop(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 94 )
+POINTER IS OUT OF STACK in void insrt(STACK_t*, long int, double), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 111 )
+POINTER IS OUT OF STACK in void insrt(STACK_t*, long int, double), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 111 )
+STACK IS EMPTY. IMPOSSIBLE TO POP in double pop(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 81 )
+STACK IS EMPTY. IMPOSSIBLE TO POP in double pop(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 81 )
+
+NOT ENOUGH MEMORY TO ALOCATE in void stack_ctor(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 52 )
+
+NOT ENOUGH MEMORY TO ALOCATE in void push(STACK_t*, double), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 78 )
+0.123 0.123 0.123 
+NOT ENOUGH MEMORY TO ALOCATE in void push(STACK_t*, double), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 78 )
+
+NOT ENOUGH MEMORY TO ALOCATE in void stack_ctor(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 52 )
+
+NOT ENOUGH MEMORY TO ALOCATE in void stack_ctor(STACK_t*), C:\Users\Äåíèñ\Desktop\C,C++\stack\stack\stack_functions.cpp ( 52 )

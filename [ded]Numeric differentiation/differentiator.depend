@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1419206260 source:c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\main.cpp
+	"differentiator.h"
+	"optimizations.h"
+
+1419033250 c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\rules.h
+	<math.h>
+	"TokenTree.h"
+
+1419203699 c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\tokentree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1419018144 source:c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\rules.cpp
+	"rules.h"
+
+1419206688 source:c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\tokentree.cpp
+	"TokenTree.h"
+
+1419205319 source:c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\differentiator.cpp
+	"differentiator.h"
+	<string.h>
+
+1419203699 c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\differentiator.h
+	"TokenTree.h"
+
+1419198927 c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\optimizations.h
+	"TokenTree.h"
+	<math.h>
+
+1419206574 source:c:\users\Äåíèñ\desktop\c,c++\[ded]numeric differentiation\optimizations.cpp
+	"optimizations.h"
+

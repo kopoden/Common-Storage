@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1418336516 source:c:\users\Денис\desktop\c,c++\[ded]стековый калькулятор\calc.cpp
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1418334901 c:\users\Денис\desktop\c,c++\[ded]стековый калькулятор\calc.h
+	<math.h>
+	"stack_functions.h"
+
+1418323371 c:\users\Денис\desktop\c,c++\[ded]стековый калькулятор\stack_functions.h
+	<stdlib.h>
+	<stdio.h>
+
+1417889315 source:c:\users\Денис\desktop\c,c++\[ded]стековый калькулятор\stack_functions.cpp
+	"stack_functions.h"
+
+1418336240 source:c:\users\Денис\desktop\c,c++\[ded]стековый калькулятор\main.cpp
+	"calc.h"
+

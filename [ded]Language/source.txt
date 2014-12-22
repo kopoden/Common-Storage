@@ -1,0 +1,9 @@
+begin
+out<< reg1
+in>> reg1
+reg1 := reg1 + reg1
+if ( reg2 > reg1 )
+begin
+reg1 := reg1 + reg1
+end
+end

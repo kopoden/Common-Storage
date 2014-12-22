@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1414355715 source:c:\users\Äåíèñ\desktop\c,c++\doubly-linked list\d-l list\d_l_list_main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"d_l_list_functions.h"
+
+1414355400 source:c:\users\Äåíèñ\desktop\c,c++\doubly-linked list\d-l list\d_l_list_functions.cpp
+	<stdio.h>
+	<stdlib.h>
+	"d_l_list_functions.h"
+
+1414352155 c:\users\Äåíèñ\desktop\c,c++\doubly-linked list\d-l list\d_l_list_functions.h
+
+1415924402 source:c:\users\Äåíèñ\desktop\c,c++\[ilab]doubly-linked list\d-l list\d_l_list_functions.cpp
+	<stdio.h>
+	<stdlib.h>
+	"d_l_list_functions.h"
+
+1415924383 c:\users\Äåíèñ\desktop\c,c++\[ilab]doubly-linked list\d-l list\d_l_list_functions.h
+
+1415922939 source:c:\users\Äåíèñ\desktop\c,c++\[ilab]doubly-linked list\d-l list\d_l_list_main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"d_l_list_functions.h"
+

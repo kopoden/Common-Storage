@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1419245978 source:c:\users\Äåíèñ\desktop\c,c++\[ded]language\main.cpp
+	"parse'n'tree.h"
+
+1419245966 c:\users\Äåíèñ\desktop\c,c++\[ded]language\parse'n'tree.h
+	"TokenTree.h"
+
+1419223172 c:\users\Äåíèñ\desktop\c,c++\[ded]language\tokentree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1419223909 source:c:\users\Äåíèñ\desktop\c,c++\[ded]language\tokentree.cpp
+	"TokenTree.h"
+
+1419233226 source:c:\users\Äåíèñ\desktop\c,c++\[ded]language\parse'n'tree.cpp
+	"parse'n'tree.h"
+

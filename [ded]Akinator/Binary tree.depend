@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1417777764 source:c:\users\Äåíèñ\desktop\c,c++\[ded]akinator\akinator_main.cpp
+	"akinator.h"
+
+1417169994 c:\users\Äåíèñ\desktop\c,c++\[ded]akinator\tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1417789447 source:c:\users\Äåíèñ\desktop\c,c++\[ded]akinator\akinator.cpp
+	"akinator.h"
+
+1417170041 source:c:\users\Äåíèñ\desktop\c,c++\[ded]akinator\tree.cpp
+	"tree.h"
+
+1417777492 c:\users\Äåíèñ\desktop\c,c++\[ded]akinator\akinator.h
+	"tree.h"
+
